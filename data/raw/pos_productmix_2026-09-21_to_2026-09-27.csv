@@ -1,0 +1,169 @@
+Business Date,Item Name,Category,Qty Sold,Net Sales,Void
+2026-09-21,Loco Moco,Food,26,572.00,N
+2026-09-21,Ahi Poke Bowl,Food,20,520.00,N
+2026-09-21,Kalua Pork Plate,Food,17,357.00,N
+2026-09-21,Garlic Shrimp,Food,17,442.00,N
+2026-09-21,Fish Tacos,Food,14,266.00,N
+2026-09-21,Huli Huli Chicken,Food,18,414.00,N
+2026-09-21,Lanai Burger,Food,21,420.00,N
+2026-09-21,Mahi Sandwich,Food,15,315.00,N
+2026-09-21,Kale Caesar,Food,7,112.00,N
+2026-09-21,Kids Mac & Cheese,Food,6,66.00,N
+2026-09-21,Spam Musubi,Food,28,252.00,N
+2026-09-21,Coconut Shrimp,Food,25,375.00,N
+2026-09-21,Malasadas,Food,23,230.00,N
+2026-09-21,Haupia Pie,Food,16,144.00,N
+2026-09-21,Kona Coffee,Beverage,30,150.00,N
+2026-09-21,Iced Tea,Beverage,30,135.00,N
+2026-09-21,POG Juice,Beverage,23,138.00,N
+2026-09-21,Soda,Beverage,27,108.00,N
+2026-09-21,Mai Tai,Alcohol,27,432.00,N
+2026-09-21,Local Lager,Alcohol,24,216.00,N
+2026-09-21,House Wine,Alcohol,14,182.00,N
+2026-09-21,Lava Flow,Alcohol,15,225.00,N
+2026-09-21,Spam Musubi,Food,-1,-9.00,Y
+2026-09-22,Loco Moco,Food,25,550.00,N
+2026-09-22,Ahi Poke Bowl,Food,18,468.00,N
+2026-09-22,Kalua Pork Plate,Food,22,462.00,N
+2026-09-22,Garlic Shrimp,Food,17,442.00,N
+2026-09-22,Fish Tacos,Food,17,323.00,N
+2026-09-22,Huli Huli Chicken,Food,17,391.00,N
+2026-09-22,Lanai Burger,Food,18,360.00,N
+2026-09-22,Mahi Sandwich,Food,13,273.00,N
+2026-09-22,Kale Caesar,Food,6,96.00,N
+2026-09-22,Kids Mac & Cheese,Food,6,66.00,N
+2026-09-22,Spam Musubi,Food,31,279.00,N
+2026-09-22,Coconut Shrimp,Food,22,330.00,N
+2026-09-22,Malasadas,Food,23,230.00,N
+2026-09-22,Haupia Pie,Food,17,153.00,N
+2026-09-22,Kona Coffee,Beverage,37,185.00,N
+2026-09-22,Iced Tea,Beverage,35,157.50,N
+2026-09-22,POG Juice,Beverage,25,150.00,N
+2026-09-22,Soda,Beverage,26,104.00,N
+2026-09-22,Mai Tai,Alcohol,26,416.00,N
+2026-09-22,Local Lager,Alcohol,21,189.00,N
+2026-09-22,House Wine,Alcohol,15,195.00,N
+2026-09-22,Lava Flow,Alcohol,13,195.00,N
+2026-09-22,Coconut Shrimp,Food,-1,-15.00,Y
+2026-09-22,Ahi Poke Bowl,Food,-1,-26.00,Y
+2026-09-23,Loco Moco,Food,28,616.00,N
+2026-09-23,Ahi Poke Bowl,Food,23,598.00,N
+2026-09-23,Kalua Pork Plate,Food,19,399.00,N
+2026-09-23,Garlic Shrimp,Food,20,520.00,N
+2026-09-23,Fish Tacos,Food,19,361.00,N
+2026-09-23,Huli Huli Chicken,Food,18,414.00,N
+2026-09-23,Lanai Burger,Food,27,540.00,N
+2026-09-23,Mahi Sandwich,Food,16,336.00,N
+2026-09-23,Kale Caesar,Food,6,96.00,N
+2026-09-23,Kids Mac & Cheese,Food,9,99.00,N
+2026-09-23,Spam Musubi,Food,33,297.00,N
+2026-09-23,Coconut Shrimp,Food,31,465.00,N
+2026-09-23,Malasadas,Food,27,270.00,N
+2026-09-23,Haupia Pie,Food,21,189.00,N
+2026-09-23,Kona Coffee,Beverage,41,205.00,N
+2026-09-23,Iced Tea,Beverage,34,153.00,N
+2026-09-23,POG Juice,Beverage,30,180.00,N
+2026-09-23,Soda,Beverage,34,136.00,N
+2026-09-23,Mai Tai,Alcohol,29,464.00,N
+2026-09-23,Local Lager,Alcohol,24,216.00,N
+2026-09-23,House Wine,Alcohol,17,221.00,N
+2026-09-23,Lava Flow,Alcohol,15,225.00,N
+2026-09-23,Fish Tacos,Food,-1,-19.00,Y
+2026-09-23,Local Lager,Alcohol,-1,-9.00,Y
+2026-09-24,Loco Moco,Food,36,792.00,N
+2026-09-24,Ahi Poke Bowl,Food,22,572.00,N
+2026-09-24,Kalua Pork Plate,Food,21,441.00,N
+2026-09-24,Garlic Shrimp,Food,21,546.00,N
+2026-09-24,Fish Tacos,Food,20,380.00,N
+2026-09-24,Huli Huli Chicken,Food,21,483.00,N
+2026-09-24,Lanai Burger,Food,24,480.00,N
+2026-09-24,Mahi Sandwich,Food,16,336.00,N
+2026-09-24,Kale Caesar,Food,7,112.00,N
+2026-09-24,Kids Mac & Cheese,Food,8,88.00,N
+2026-09-24,Spam Musubi,Food,35,315.00,N
+2026-09-24,Coconut Shrimp,Food,25,375.00,N
+2026-09-24,Malasadas,Food,27,270.00,N
+2026-09-24,Haupia Pie,Food,17,153.00,N
+2026-09-24,Kona Coffee,Beverage,38,190.00,N
+2026-09-24,Iced Tea,Beverage,37,166.50,N
+2026-09-24,POG Juice,Beverage,35,210.00,N
+2026-09-24,Soda,Beverage,39,156.00,N
+2026-09-24,Mai Tai,Alcohol,36,576.00,N
+2026-09-24,Local Lager,Alcohol,28,252.00,N
+2026-09-24,House Wine,Alcohol,17,221.00,N
+2026-09-24,Lava Flow,Alcohol,17,255.00,N
+2026-09-24,Mai Tai,Alcohol,-1,-16.00,Y
+2026-09-24,Mahi Sandwich,Food,-1,-21.00,Y
+2026-09-24,Ahi Poke Bowl,Food,-1,-26.00,Y
+2026-09-25,Loco Moco,Food,44,968.00,N
+2026-09-25,Ahi Poke Bowl,Food,32,832.00,N
+2026-09-25,Kalua Pork Plate,Food,32,672.00,N
+2026-09-25,Garlic Shrimp,Food,24,624.00,N
+2026-09-25,Fish Tacos,Food,25,475.00,N
+2026-09-25,Huli Huli Chicken,Food,23,529.00,N
+2026-09-25,Lanai Burger,Food,36,720.00,N
+2026-09-25,Mahi Sandwich,Food,19,399.00,N
+2026-09-25,Kale Caesar,Food,8,128.00,N
+2026-09-25,Kids Mac & Cheese,Food,10,110.00,N
+2026-09-25,Spam Musubi,Food,41,369.00,N
+2026-09-25,Coconut Shrimp,Food,41,615.00,N
+2026-09-25,Malasadas,Food,37,370.00,N
+2026-09-25,Haupia Pie,Food,27,243.00,N
+2026-09-25,Kona Coffee,Beverage,58,290.00,N
+2026-09-25,Iced Tea,Beverage,57,256.50,N
+2026-09-25,POG Juice,Beverage,44,264.00,N
+2026-09-25,Soda,Beverage,40,160.00,N
+2026-09-25,Mai Tai,Alcohol,40,640.00,N
+2026-09-25,Local Lager,Alcohol,33,297.00,N
+2026-09-25,House Wine,Alcohol,23,299.00,N
+2026-09-25,Lava Flow,Alcohol,22,330.00,N
+2026-09-25,Malasadas,Food,-1,-10.00,Y
+2026-09-25,Spam Musubi,Food,-1,-9.00,Y
+2026-09-25,Huli Huli Chicken,Food,-1,-23.00,Y
+2026-09-26,Loco Moco,Food,50,1100.00,N
+2026-09-26,Ahi Poke Bowl,Food,38,988.00,N
+2026-09-26,Kalua Pork Plate,Food,38,798.00,N
+2026-09-26,Garlic Shrimp,Food,32,832.00,N
+2026-09-26,Fish Tacos,Food,30,570.00,N
+2026-09-26,Huli Huli Chicken,Food,29,667.00,N
+2026-09-26,Lanai Burger,Food,37,740.00,N
+2026-09-26,Mahi Sandwich,Food,28,588.00,N
+2026-09-26,Kale Caesar,Food,10,160.00,N
+2026-09-26,Kids Mac & Cheese,Food,12,132.00,N
+2026-09-26,Spam Musubi,Food,60,540.00,N
+2026-09-26,Coconut Shrimp,Food,51,765.00,N
+2026-09-26,Malasadas,Food,47,470.00,N
+2026-09-26,Haupia Pie,Food,31,279.00,N
+2026-09-26,Kona Coffee,Beverage,63,315.00,N
+2026-09-26,Iced Tea,Beverage,59,265.50,N
+2026-09-26,POG Juice,Beverage,47,282.00,N
+2026-09-26,Soda,Beverage,54,216.00,N
+2026-09-26,Mai Tai,Alcohol,59,944.00,N
+2026-09-26,Local Lager,Alcohol,45,405.00,N
+2026-09-26,House Wine,Alcohol,26,338.00,N
+2026-09-26,Lava Flow,Alcohol,25,375.00,N
+2026-09-26,Malasadas,Food,-2,-20.00,Y
+2026-09-26,Coconut Shrimp,Food,-1,-15.00,Y
+2026-09-27,Loco Moco,Food,40,880.00,N
+2026-09-27,Ahi Poke Bowl,Food,30,780.00,N
+2026-09-27,Kalua Pork Plate,Food,31,651.00,N
+2026-09-27,Garlic Shrimp,Food,26,676.00,N
+2026-09-27,Fish Tacos,Food,24,456.00,N
+2026-09-27,Huli Huli Chicken,Food,25,575.00,N
+2026-09-27,Lanai Burger,Food,32,640.00,N
+2026-09-27,Mahi Sandwich,Food,20,420.00,N
+2026-09-27,Kale Caesar,Food,10,160.00,N
+2026-09-27,Kids Mac & Cheese,Food,12,132.00,N
+2026-09-27,Spam Musubi,Food,49,441.00,N
+2026-09-27,Coconut Shrimp,Food,35,525.00,N
+2026-09-27,Malasadas,Food,40,400.00,N
+2026-09-27,Haupia Pie,Food,26,234.00,N
+2026-09-27,Kona Coffee,Beverage,48,240.00,N
+2026-09-27,Iced Tea,Beverage,55,247.50,N
+2026-09-27,POG Juice,Beverage,42,252.00,N
+2026-09-27,Soda,Beverage,49,196.00,N
+2026-09-27,Mai Tai,Alcohol,40,640.00,N
+2026-09-27,Local Lager,Alcohol,36,324.00,N
+2026-09-27,House Wine,Alcohol,26,338.00,N
+2026-09-27,Lava Flow,Alcohol,19,285.00,N
+2026-09-27,Loco Moco,Food,-1,-22.00,Y

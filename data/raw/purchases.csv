@@ -1,0 +1,157 @@
+delivery_date,vendor,category,amount
+2026-07-20,Ewa Plains Produce Co.,Produce,1146.12
+2026-07-22,Ewa Plains Produce Co.,Produce,1146.12
+2026-07-24,Ewa Plains Produce Co.,Produce,1146.12
+2026-07-20,Makai Fish Market Wholesale,Seafood,1499.32
+2026-07-22,Makai Fish Market Wholesale,Seafood,1499.32
+2026-07-24,Makai Fish Market Wholesale,Seafood,1499.32
+2026-07-21,Mauka Meats (fictitious),Meat,1841.17
+2026-07-24,Mauka Meats (fictitious),Meat,1841.17
+2026-07-21,Island Dairy Supply (fictitious),Dairy,720.67
+2026-07-24,Island Dairy Supply (fictitious),Dairy,720.67
+2026-07-22,Kalo Paper & Janitorial Supply,Dry goods,1401.12
+2026-07-22,Koolau Coffee Roasters,Beverage,1162.22
+2026-07-22,Pacific Beverage Distributors (fictitious),Alcohol,2493.25
+2026-07-27,Ewa Plains Produce Co.,Produce,1179.50
+2026-07-29,Ewa Plains Produce Co.,Produce,1179.50
+2026-07-31,Ewa Plains Produce Co.,Produce,1179.50
+2026-07-27,Makai Fish Market Wholesale,Seafood,1569.96
+2026-07-29,Makai Fish Market Wholesale,Seafood,1569.96
+2026-07-31,Makai Fish Market Wholesale,Seafood,1569.96
+2026-07-28,Mauka Meats (fictitious),Meat,1974.04
+2026-07-31,Mauka Meats (fictitious),Meat,1974.04
+2026-07-28,Island Dairy Supply (fictitious),Dairy,729.66
+2026-07-31,Island Dairy Supply (fictitious),Dairy,729.66
+2026-07-29,Kalo Paper & Janitorial Supply,Dry goods,1510.41
+2026-07-29,Koolau Coffee Roasters,Beverage,1019.14
+2026-07-29,Pacific Beverage Distributors (fictitious),Alcohol,2629.42
+2026-08-03,Ewa Plains Produce Co.,Produce,1225.82
+2026-08-05,Ewa Plains Produce Co.,Produce,1225.82
+2026-08-07,Ewa Plains Produce Co.,Produce,1225.82
+2026-08-03,Makai Fish Market Wholesale,Seafood,1571.89
+2026-08-05,Makai Fish Market Wholesale,Seafood,1571.89
+2026-08-07,Makai Fish Market Wholesale,Seafood,1571.89
+2026-08-04,Mauka Meats (fictitious),Meat,2015.63
+2026-08-07,Mauka Meats (fictitious),Meat,2015.63
+2026-08-04,Island Dairy Supply (fictitious),Dairy,733.58
+2026-08-07,Island Dairy Supply (fictitious),Dairy,733.58
+2026-08-05,Kalo Paper & Janitorial Supply,Dry goods,1407.71
+2026-08-05,Koolau Coffee Roasters,Beverage,1190.38
+2026-08-05,Pacific Beverage Distributors (fictitious),Alcohol,2920.00
+2026-08-10,Ewa Plains Produce Co.,Produce,1144.00
+2026-08-12,Ewa Plains Produce Co.,Produce,1144.00
+2026-08-14,Ewa Plains Produce Co.,Produce,1144.00
+2026-08-10,Makai Fish Market Wholesale,Seafood,1415.31
+2026-08-12,Makai Fish Market Wholesale,Seafood,1415.31
+2026-08-14,Makai Fish Market Wholesale,Seafood,1415.31
+2026-08-11,Mauka Meats (fictitious),Meat,1809.74
+2026-08-14,Mauka Meats (fictitious),Meat,1809.74
+2026-08-11,Island Dairy Supply (fictitious),Dairy,730.31
+2026-08-14,Island Dairy Supply (fictitious),Dairy,730.31
+2026-08-12,Kalo Paper & Janitorial Supply,Dry goods,1478.00
+2026-08-12,Koolau Coffee Roasters,Beverage,1155.80
+2026-08-12,Pacific Beverage Distributors (fictitious),Alcohol,2546.81
+2026-08-17,Ewa Plains Produce Co.,Produce,1146.19
+2026-08-19,Ewa Plains Produce Co.,Produce,1146.19
+2026-08-21,Ewa Plains Produce Co.,Produce,1146.19
+2026-08-17,Makai Fish Market Wholesale,Seafood,1518.10
+2026-08-19,Makai Fish Market Wholesale,Seafood,1518.10
+2026-08-21,Makai Fish Market Wholesale,Seafood,1518.10
+2026-08-18,Mauka Meats (fictitious),Meat,1877.28
+2026-08-21,Mauka Meats (fictitious),Meat,1877.28
+2026-08-18,Island Dairy Supply (fictitious),Dairy,697.69
+2026-08-21,Island Dairy Supply (fictitious),Dairy,697.69
+2026-08-19,Kalo Paper & Janitorial Supply,Dry goods,1319.79
+2026-08-19,Koolau Coffee Roasters,Beverage,1162.02
+2026-08-19,Pacific Beverage Distributors (fictitious),Alcohol,3016.32
+2026-08-24,Ewa Plains Produce Co.,Produce,1210.99
+2026-08-26,Ewa Plains Produce Co.,Produce,1210.99
+2026-08-28,Ewa Plains Produce Co.,Produce,1210.99
+2026-08-24,Makai Fish Market Wholesale,Seafood,1534.59
+2026-08-26,Makai Fish Market Wholesale,Seafood,1534.59
+2026-08-28,Makai Fish Market Wholesale,Seafood,1534.59
+2026-08-25,Mauka Meats (fictitious),Meat,1830.32
+2026-08-28,Mauka Meats (fictitious),Meat,1830.32
+2026-08-25,Island Dairy Supply (fictitious),Dairy,755.12
+2026-08-28,Island Dairy Supply (fictitious),Dairy,755.12
+2026-08-26,Kalo Paper & Janitorial Supply,Dry goods,1469.61
+2026-08-26,Koolau Coffee Roasters,Beverage,1048.56
+2026-08-26,Pacific Beverage Distributors (fictitious),Alcohol,3029.19
+2026-08-31,Ewa Plains Produce Co.,Produce,968.33
+2026-09-02,Ewa Plains Produce Co.,Produce,968.33
+2026-09-04,Ewa Plains Produce Co.,Produce,968.33
+2026-08-31,Makai Fish Market Wholesale,Seafood,1311.43
+2026-09-02,Makai Fish Market Wholesale,Seafood,1311.43
+2026-09-04,Makai Fish Market Wholesale,Seafood,1311.43
+2026-09-01,Mauka Meats (fictitious),Meat,1694.10
+2026-09-04,Mauka Meats (fictitious),Meat,1694.10
+2026-09-01,Island Dairy Supply (fictitious),Dairy,633.35
+2026-09-04,Island Dairy Supply (fictitious),Dairy,633.35
+2026-09-02,Kalo Paper & Janitorial Supply,Dry goods,1353.66
+2026-09-02,Koolau Coffee Roasters,Beverage,958.56
+2026-09-02,Pacific Beverage Distributors (fictitious),Alcohol,2671.82
+2026-09-07,Ewa Plains Produce Co.,Produce,1035.42
+2026-09-09,Ewa Plains Produce Co.,Produce,1035.42
+2026-09-11,Ewa Plains Produce Co.,Produce,1035.42
+2026-09-07,Makai Fish Market Wholesale,Seafood,1349.04
+2026-09-09,Makai Fish Market Wholesale,Seafood,1349.04
+2026-09-11,Makai Fish Market Wholesale,Seafood,1349.04
+2026-09-08,Mauka Meats (fictitious),Meat,1613.48
+2026-09-11,Mauka Meats (fictitious),Meat,1613.48
+2026-09-08,Island Dairy Supply (fictitious),Dairy,609.26
+2026-09-11,Island Dairy Supply (fictitious),Dairy,609.26
+2026-09-09,Kalo Paper & Janitorial Supply,Dry goods,1260.03
+2026-09-09,Koolau Coffee Roasters,Beverage,769.35
+2026-09-09,Pacific Beverage Distributors (fictitious),Alcohol,2527.03
+2026-09-14,Ewa Plains Produce Co.,Produce,992.02
+2026-09-16,Ewa Plains Produce Co.,Produce,992.02
+2026-09-18,Ewa Plains Produce Co.,Produce,992.02
+2026-09-14,Makai Fish Market Wholesale,Seafood,1190.35
+2026-09-16,Makai Fish Market Wholesale,Seafood,1190.35
+2026-09-18,Makai Fish Market Wholesale,Seafood,1190.35
+2026-09-15,Mauka Meats (fictitious),Meat,1699.53
+2026-09-18,Mauka Meats (fictitious),Meat,1699.53
+2026-09-15,Island Dairy Supply (fictitious),Dairy,629.08
+2026-09-18,Island Dairy Supply (fictitious),Dairy,629.08
+2026-09-16,Kalo Paper & Janitorial Supply,Dry goods,1254.23
+2026-09-16,Koolau Coffee Roasters,Beverage,923.63
+2026-09-16,Pacific Beverage Distributors (fictitious),Alcohol,2573.86
+2026-09-21,Ewa Plains Produce Co.,Produce,973.65
+2026-09-23,Ewa Plains Produce Co.,Produce,973.65
+2026-09-25,Ewa Plains Produce Co.,Produce,973.65
+2026-09-21,Makai Fish Market Wholesale,Seafood,1259.95
+2026-09-23,Makai Fish Market Wholesale,Seafood,1259.95
+2026-09-25,Makai Fish Market Wholesale,Seafood,1259.95
+2026-09-22,Mauka Meats (fictitious),Meat,1685.69
+2026-09-25,Mauka Meats (fictitious),Meat,1685.69
+2026-09-22,Island Dairy Supply (fictitious),Dairy,642.04
+2026-09-25,Island Dairy Supply (fictitious),Dairy,642.04
+2026-09-23,Kalo Paper & Janitorial Supply,Dry goods,1179.76
+2026-09-23,Koolau Coffee Roasters,Beverage,820.69
+2026-09-23,Pacific Beverage Distributors (fictitious),Alcohol,2641.09
+2026-09-28,Ewa Plains Produce Co.,Produce,1223.65
+2026-09-30,Ewa Plains Produce Co.,Produce,1223.65
+2026-10-02,Ewa Plains Produce Co.,Produce,1223.65
+2026-09-28,Makai Fish Market Wholesale,Seafood,1368.48
+2026-09-30,Makai Fish Market Wholesale,Seafood,1368.48
+2026-10-02,Makai Fish Market Wholesale,Seafood,1368.48
+2026-09-29,Mauka Meats (fictitious),Meat,1757.82
+2026-10-02,Mauka Meats (fictitious),Meat,1757.82
+2026-09-29,Island Dairy Supply (fictitious),Dairy,633.23
+2026-10-02,Island Dairy Supply (fictitious),Dairy,633.23
+2026-09-30,Kalo Paper & Janitorial Supply,Dry goods,1276.23
+2026-09-30,Koolau Coffee Roasters,Beverage,941.45
+2026-09-30,Pacific Beverage Distributors (fictitious),Alcohol,2533.48
+2026-10-05,Ewa Plains Produce Co.,Produce,1193.53
+2026-10-07,Ewa Plains Produce Co.,Produce,1193.53
+2026-10-09,Ewa Plains Produce Co.,Produce,1193.53
+2026-10-05,Makai Fish Market Wholesale,Seafood,1344.89
+2026-10-07,Makai Fish Market Wholesale,Seafood,1344.89
+2026-10-09,Makai Fish Market Wholesale,Seafood,1344.89
+2026-10-06,Mauka Meats (fictitious),Meat,1680.98
+2026-10-09,Mauka Meats (fictitious),Meat,1680.98
+2026-10-06,Island Dairy Supply (fictitious),Dairy,667.10
+2026-10-09,Island Dairy Supply (fictitious),Dairy,667.10
+2026-10-07,Kalo Paper & Janitorial Supply,Dry goods,1292.93
+2026-10-07,Koolau Coffee Roasters,Beverage,918.81
+2026-10-07,Pacific Beverage Distributors (fictitious),Alcohol,2073.79

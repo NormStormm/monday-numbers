@@ -1,0 +1,10 @@
+{
+ "latest_week_start": "2026-10-05",
+ "overstaffed_day": "2026-10-06",
+ "produce_spike_from_week_start": "2026-09-28",
+ "poke_price_change_week_start": "2026-08-24",
+ "missing_day": "2026-10-10",
+ "duplicated_day": "2026-09-16",
+ "forgot_clock_out_day": "2026-10-08",
+ "daily_summary_net_sales_total": 752418.5
+}

@@ -1,0 +1,168 @@
+Business Date,Item Name,Category,Qty Sold,Net Sales,Void
+08/10/2026,Loco Moco,Food,29,$638.00,N
+08/10/2026,Ahi Poke Bowl,Food,28,$672.00,N
+08/10/2026,Kalua Pork Plate,Food,24,$504.00,N
+08/10/2026,Garlic Shrimp,Food,19,$494.00,N
+08/10/2026,Fish Tacos,Food,18,$342.00,N
+08/10/2026,Huli Huli Chicken,Food,17,$391.00,N
+08/10/2026,Lanai Burger,Food,24,$480.00,N
+08/10/2026,Mahi Sandwich,Food,16,$336.00,N
+08/10/2026,Kale Caesar,Food,6,$96.00,N
+08/10/2026,Kids Mac & Cheese,Food,8,$88.00,N
+08/10/2026,Spam Musubi,Food,38,$342.00,N
+08/10/2026,Coconut Shrimp,Food,29,$435.00,N
+08/10/2026,Malasadas,Food,25,$250.00,N
+08/10/2026,Haupia Pie,Food,21,$189.00,N
+08/10/2026,Kona Coffee,Beverage,41,$205.00,N
+08/10/2026,Iced Tea,Beverage,36,$162.00,N
+08/10/2026,POG Juice,Beverage,30,$180.00,N
+08/10/2026,Soda,Beverage,33,$132.00,N
+08/10/2026,Mai Tai,Alcohol,33,$528.00,N
+08/10/2026,Local Lager,Alcohol,25,$225.00,N
+08/10/2026,House Wine,Alcohol,20,$260.00,N
+08/10/2026,Lava Flow,Alcohol,17,$255.00,N
+08/11/2026,Loco Moco,Food,34,$748.00,N
+08/11/2026,Ahi Poke Bowl,Food,26,$624.00,N
+08/11/2026,Kalua Pork Plate,Food,19,$399.00,N
+08/11/2026,Garlic Shrimp,Food,17,$442.00,N
+08/11/2026,Fish Tacos,Food,17,$323.00,N
+08/11/2026,Huli Huli Chicken,Food,20,$460.00,N
+08/11/2026,Lanai Burger,Food,23,$460.00,N
+08/11/2026,Mahi Sandwich,Food,17,$357.00,N
+08/11/2026,Kale Caesar,Food,7,$112.00,N
+08/11/2026,Kids Mac & Cheese,Food,7,$77.00,N
+08/11/2026,Spam Musubi,Food,37,$333.00,N
+08/11/2026,Coconut Shrimp,Food,29,$435.00,N
+08/11/2026,Malasadas,Food,26,$260.00,N
+08/11/2026,Haupia Pie,Food,17,$153.00,N
+08/11/2026,Kona Coffee,Beverage,42,$210.00,N
+08/11/2026,Iced Tea,Beverage,35,$157.50,N
+08/11/2026,POG Juice,Beverage,29,$174.00,N
+08/11/2026,Soda,Beverage,36,$144.00,N
+08/11/2026,Mai Tai,Alcohol,33,$528.00,N
+08/11/2026,Local Lager,Alcohol,28,$252.00,N
+08/11/2026,House Wine,Alcohol,17,$221.00,N
+08/11/2026,Lava Flow,Alcohol,15,$225.00,N
+08/11/2026,Huli Huli Chicken,Food,-1,-$23.00,Y
+08/12/2026,Loco Moco,Food,32,$704.00,N
+08/12/2026,Ahi Poke Bowl,Food,29,$696.00,N
+08/12/2026,Kalua Pork Plate,Food,25,$525.00,N
+08/12/2026,Garlic Shrimp,Food,24,$624.00,N
+08/12/2026,Fish Tacos,Food,20,$380.00,N
+08/12/2026,Huli Huli Chicken,Food,22,$506.00,N
+08/12/2026,Lanai Burger,Food,24,$480.00,N
+08/12/2026,Mahi Sandwich,Food,16,$336.00,N
+08/12/2026,Kale Caesar,Food,7,$112.00,N
+08/12/2026,Kids Mac & Cheese,Food,9,$99.00,N
+08/12/2026,Spam Musubi,Food,36,$324.00,N
+08/12/2026,Coconut Shrimp,Food,32,$480.00,N
+08/12/2026,Malasadas,Food,34,$340.00,N
+08/12/2026,Haupia Pie,Food,21,$189.00,N
+08/12/2026,Kona Coffee,Beverage,37,$185.00,N
+08/12/2026,Iced Tea,Beverage,41,$184.50,N
+08/12/2026,POG Juice,Beverage,34,$204.00,N
+08/12/2026,Soda,Beverage,36,$144.00,N
+08/12/2026,Mai Tai,Alcohol,40,$640.00,N
+08/12/2026,Local Lager,Alcohol,29,$261.00,N
+08/12/2026,House Wine,Alcohol,21,$273.00,N
+08/12/2026,Lava Flow,Alcohol,17,$255.00,N
+08/12/2026,Spam Musubi,Food,-1,-$9.00,Y
+08/12/2026,Coconut Shrimp,Food,-1,-$15.00,Y
+08/12/2026,Kona Coffee,Beverage,-1,-$5.00,Y
+08/13/2026,Loco Moco,Food,34,$748.00,N
+08/13/2026,Ahi Poke Bowl,Food,30,$720.00,N
+08/13/2026,Kalua Pork Plate,Food,23,$483.00,N
+08/13/2026,Garlic Shrimp,Food,24,$624.00,N
+08/13/2026,Fish Tacos,Food,23,$437.00,N
+08/13/2026,Huli Huli Chicken,Food,21,$483.00,N
+08/13/2026,Lanai Burger,Food,26,$520.00,N
+08/13/2026,Mahi Sandwich,Food,19,$399.00,N
+08/13/2026,Kale Caesar,Food,9,$144.00,N
+08/13/2026,Kids Mac & Cheese,Food,11,$121.00,N
+08/13/2026,Spam Musubi,Food,42,$378.00,N
+08/13/2026,Coconut Shrimp,Food,33,$495.00,N
+08/13/2026,Malasadas,Food,31,$310.00,N
+08/13/2026,Haupia Pie,Food,21,$189.00,N
+08/13/2026,Kona Coffee,Beverage,43,$215.00,N
+08/13/2026,Iced Tea,Beverage,42,$189.00,N
+08/13/2026,POG Juice,Beverage,32,$192.00,N
+08/13/2026,Soda,Beverage,43,$172.00,N
+08/13/2026,Mai Tai,Alcohol,39,$624.00,N
+08/13/2026,Local Lager,Alcohol,38,$342.00,N
+08/13/2026,House Wine,Alcohol,22,$286.00,N
+08/13/2026,Lava Flow,Alcohol,20,$300.00,N
+08/13/2026,House Wine,Alcohol,-1,-$13.00,Y
+08/14/2026,Loco Moco,Food,58,"$1,276.00",N
+08/14/2026,Ahi Poke Bowl,Food,46,"$1,104.00",N
+08/14/2026,Kalua Pork Plate,Food,35,$735.00,N
+08/14/2026,Garlic Shrimp,Food,32,$832.00,N
+08/14/2026,Fish Tacos,Food,26,$494.00,N
+08/14/2026,Huli Huli Chicken,Food,28,$644.00,N
+08/14/2026,Lanai Burger,Food,44,$880.00,N
+08/14/2026,Mahi Sandwich,Food,26,$546.00,N
+08/14/2026,Kale Caesar,Food,12,$192.00,N
+08/14/2026,Kids Mac & Cheese,Food,13,$143.00,N
+08/14/2026,Spam Musubi,Food,50,$450.00,N
+08/14/2026,Coconut Shrimp,Food,50,$750.00,N
+08/14/2026,Malasadas,Food,41,$410.00,N
+08/14/2026,Haupia Pie,Food,28,$252.00,N
+08/14/2026,Kona Coffee,Beverage,65,$325.00,N
+08/14/2026,Iced Tea,Beverage,60,$270.00,N
+08/14/2026,POG Juice,Beverage,59,$354.00,N
+08/14/2026,Soda,Beverage,51,$204.00,N
+08/14/2026,Mai Tai,Alcohol,61,$976.00,N
+08/14/2026,Local Lager,Alcohol,47,$423.00,N
+08/14/2026,House Wine,Alcohol,33,$429.00,N
+08/14/2026,Lava Flow,Alcohol,24,$360.00,N
+08/14/2026,Malasadas,Food,-1,-$10.00,Y
+08/14/2026,Kona Coffee,Beverage,-2,-$10.00,Y
+08/15/2026,Loco Moco,Food,56,"$1,232.00",N
+08/15/2026,Ahi Poke Bowl,Food,51,"$1,224.00",N
+08/15/2026,Kalua Pork Plate,Food,34,$714.00,N
+08/15/2026,Garlic Shrimp,Food,41,"$1,066.00",N
+08/15/2026,Fish Tacos,Food,28,$532.00,N
+08/15/2026,Huli Huli Chicken,Food,39,$897.00,N
+08/15/2026,Lanai Burger,Food,45,$900.00,N
+08/15/2026,Mahi Sandwich,Food,27,$567.00,N
+08/15/2026,Kale Caesar,Food,11,$176.00,N
+08/15/2026,Kids Mac & Cheese,Food,13,$143.00,N
+08/15/2026,Spam Musubi,Food,65,$585.00,N
+08/15/2026,Coconut Shrimp,Food,47,$705.00,N
+08/15/2026,Malasadas,Food,51,$510.00,N
+08/15/2026,Haupia Pie,Food,37,$333.00,N
+08/15/2026,Kona Coffee,Beverage,70,$350.00,N
+08/15/2026,Iced Tea,Beverage,61,$274.50,N
+08/15/2026,POG Juice,Beverage,53,$318.00,N
+08/15/2026,Soda,Beverage,60,$240.00,N
+08/15/2026,Mai Tai,Alcohol,69,"$1,104.00",N
+08/15/2026,Local Lager,Alcohol,43,$387.00,N
+08/15/2026,House Wine,Alcohol,31,$403.00,N
+08/15/2026,Lava Flow,Alcohol,27,$405.00,N
+08/15/2026,Lava Flow,Alcohol,-1,-$15.00,Y
+08/15/2026,Lanai Burger,Food,-1,-$20.00,Y
+08/15/2026,Haupia Pie,Food,-1,-$9.00,Y
+08/16/2026,Loco Moco,Food,41,$902.00,N
+08/16/2026,Ahi Poke Bowl,Food,37,$888.00,N
+08/16/2026,Kalua Pork Plate,Food,28,$588.00,N
+08/16/2026,Garlic Shrimp,Food,25,$650.00,N
+08/16/2026,Fish Tacos,Food,28,$532.00,N
+08/16/2026,Huli Huli Chicken,Food,29,$667.00,N
+08/16/2026,Lanai Burger,Food,37,$740.00,N
+08/16/2026,Mahi Sandwich,Food,26,$546.00,N
+08/16/2026,Kale Caesar,Food,10,$160.00,N
+08/16/2026,Kids Mac & Cheese,Food,11,$121.00,N
+08/16/2026,Spam Musubi,Food,47,$423.00,N
+08/16/2026,Coconut Shrimp,Food,41,$615.00,N
+08/16/2026,Malasadas,Food,39,$390.00,N
+08/16/2026,Haupia Pie,Food,28,$252.00,N
+08/16/2026,Kona Coffee,Beverage,55,$275.00,N
+08/16/2026,Iced Tea,Beverage,58,$261.00,N
+08/16/2026,POG Juice,Beverage,50,$300.00,N
+08/16/2026,Soda,Beverage,54,$216.00,N
+08/16/2026,Mai Tai,Alcohol,51,$816.00,N
+08/16/2026,Local Lager,Alcohol,34,$306.00,N
+08/16/2026,House Wine,Alcohol,24,$312.00,N
+08/16/2026,Lava Flow,Alcohol,24,$360.00,N
+08/16/2026,Mai Tai,Alcohol,-1,-$16.00,Y
+08/16/2026,Loco Moco,Food,-1,-$22.00,Y
+08/16/2026,Lava Flow,Alcohol,-1,-$15.00,Y

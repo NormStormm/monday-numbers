@@ -1,0 +1,265 @@
+week_start,item,category,qty_sold,net_sales,avg_price
+2026-07-20,Ahi Poke Bowl,Food,256,6144.00,24.0
+2026-07-20,Loco Moco,Food,278,6116.00,22.0
+2026-07-20,Mai Tai,Alcohol,310,4960.00,16.0
+2026-07-20,Garlic Shrimp,Food,182,4732.00,26.0
+2026-07-20,Lanai Burger,Food,220,4380.00,20.0
+2026-07-20,Huli Huli Chicken,Food,182,4163.00,23.0
+2026-07-20,Coconut Shrimp,Food,272,4065.00,15.0
+2026-07-20,Kalua Pork Plate,Food,187,3927.00,21.0
+2026-07-20,Fish Tacos,Food,167,3173.00,19.0
+2026-07-20,Mahi Sandwich,Food,146,3066.00,21.0
+2026-07-20,Spam Musubi,Food,317,2853.00,9.0
+2026-07-20,Malasadas,Food,270,2690.00,10.0
+2026-07-20,Local Lager,Alcohol,266,2394.00,9.0
+2026-07-20,House Wine,Alcohol,169,2184.00,13.0
+2026-07-20,Lava Flow,Alcohol,135,2025.00,15.0
+2026-07-20,Kona Coffee,Beverage,362,1805.00,5.0
+2026-07-20,POG Juice,Beverage,300,1800.00,6.0
+2026-07-20,Haupia Pie,Food,180,1611.00,9.0
+2026-07-20,Iced Tea,Beverage,338,1521.00,4.5
+2026-07-20,Soda,Beverage,337,1348.00,4.0
+2026-07-20,Kale Caesar,Food,63,1008.00,16.0
+2026-07-20,Kids Mac & Cheese,Food,69,759.00,11.0
+2026-07-27,Loco Moco,Food,307,6754.00,22.0
+2026-07-27,Ahi Poke Bowl,Food,280,6672.00,24.0
+2026-07-27,Mai Tai,Alcohol,336,5376.00,16.0
+2026-07-27,Lanai Burger,Food,222,4440.00,20.0
+2026-07-27,Garlic Shrimp,Food,168,4342.00,26.0
+2026-07-27,Coconut Shrimp,Food,290,4335.00,15.0
+2026-07-27,Huli Huli Chicken,Food,187,4232.00,23.0
+2026-07-27,Kalua Pork Plate,Food,198,4137.00,21.0
+2026-07-27,Fish Tacos,Food,160,3040.00,19.0
+2026-07-27,Mahi Sandwich,Food,144,3024.00,21.0
+2026-07-27,Spam Musubi,Food,327,2943.00,9.0
+2026-07-27,Malasadas,Food,278,2780.00,10.0
+2026-07-27,Lava Flow,Alcohol,151,2250.00,15.0
+2026-07-27,Local Lager,Alcohol,247,2223.00,9.0
+2026-07-27,House Wine,Alcohol,169,2197.00,13.0
+2026-07-27,Kona Coffee,Beverage,367,1835.00,5.0
+2026-07-27,POG Juice,Beverage,301,1800.00,6.0
+2026-07-27,Iced Tea,Beverage,349,1570.50,4.5
+2026-07-27,Haupia Pie,Food,172,1548.00,9.0
+2026-07-27,Soda,Beverage,313,1248.00,4.0
+2026-07-27,Kale Caesar,Food,64,1024.00,16.0
+2026-07-27,Kids Mac & Cheese,Food,70,770.00,11.0
+2026-08-03,Loco Moco,Food,289,6358.00,22.0
+2026-08-03,Ahi Poke Bowl,Food,263,6288.00,24.0
+2026-08-03,Mai Tai,Alcohol,322,5152.00,16.0
+2026-08-03,Garlic Shrimp,Food,183,4758.00,26.0
+2026-08-03,Lanai Burger,Food,226,4520.00,20.0
+2026-08-03,Huli Huli Chicken,Food,193,4439.00,23.0
+2026-08-03,Kalua Pork Plate,Food,203,4263.00,21.0
+2026-08-03,Coconut Shrimp,Food,280,4200.00,15.0
+2026-08-03,Mahi Sandwich,Food,155,3255.00,21.0
+2026-08-03,Fish Tacos,Food,167,3173.00,19.0
+2026-08-03,Spam Musubi,Food,319,2871.00,9.0
+2026-08-03,Malasadas,Food,276,2760.00,10.0
+2026-08-03,Local Lager,Alcohol,266,2385.00,9.0
+2026-08-03,House Wine,Alcohol,171,2210.00,13.0
+2026-08-03,Lava Flow,Alcohol,139,2055.00,15.0
+2026-08-03,Kona Coffee,Beverage,361,1800.00,5.0
+2026-08-03,POG Juice,Beverage,298,1788.00,6.0
+2026-08-03,Haupia Pie,Food,189,1692.00,9.0
+2026-08-03,Iced Tea,Beverage,345,1552.50,4.5
+2026-08-03,Soda,Beverage,332,1316.00,4.0
+2026-08-03,Kale Caesar,Food,66,1040.00,16.0
+2026-08-03,Kids Mac & Cheese,Food,73,792.00,11.0
+2026-08-10,Loco Moco,Food,284,6226.00,22.0
+2026-08-10,Ahi Poke Bowl,Food,247,5928.00,24.0
+2026-08-10,Mai Tai,Alcohol,326,5200.00,16.0
+2026-08-10,Garlic Shrimp,Food,182,4732.00,26.0
+2026-08-10,Lanai Burger,Food,223,4440.00,20.0
+2026-08-10,Huli Huli Chicken,Food,176,4025.00,23.0
+2026-08-10,Kalua Pork Plate,Food,188,3948.00,21.0
+2026-08-10,Coconut Shrimp,Food,261,3900.00,15.0
+2026-08-10,Mahi Sandwich,Food,147,3087.00,21.0
+2026-08-10,Fish Tacos,Food,160,3040.00,19.0
+2026-08-10,Spam Musubi,Food,315,2826.00,9.0
+2026-08-10,Malasadas,Food,247,2460.00,10.0
+2026-08-10,Local Lager,Alcohol,244,2196.00,9.0
+2026-08-10,House Wine,Alcohol,168,2171.00,13.0
+2026-08-10,Lava Flow,Alcohol,144,2130.00,15.0
+2026-08-10,Kona Coffee,Beverage,353,1750.00,5.0
+2026-08-10,POG Juice,Beverage,287,1722.00,6.0
+2026-08-10,Haupia Pie,Food,173,1548.00,9.0
+2026-08-10,Iced Tea,Beverage,333,1498.50,4.5
+2026-08-10,Soda,Beverage,313,1252.00,4.0
+2026-08-10,Kale Caesar,Food,62,992.00,16.0
+2026-08-10,Kids Mac & Cheese,Food,72,792.00,11.0
+2026-08-17,Loco Moco,Food,295,6468.00,22.0
+2026-08-17,Ahi Poke Bowl,Food,254,6072.00,24.0
+2026-08-17,Mai Tai,Alcohol,313,5008.00,16.0
+2026-08-17,Garlic Shrimp,Food,170,4420.00,26.0
+2026-08-17,Huli Huli Chicken,Food,188,4324.00,23.0
+2026-08-17,Lanai Burger,Food,215,4300.00,20.0
+2026-08-17,Kalua Pork Plate,Food,191,4011.00,21.0
+2026-08-17,Coconut Shrimp,Food,264,3960.00,15.0
+2026-08-17,Fish Tacos,Food,167,3173.00,19.0
+2026-08-17,Mahi Sandwich,Food,137,2877.00,21.0
+2026-08-17,Spam Musubi,Food,296,2664.00,9.0
+2026-08-17,Malasadas,Food,249,2490.00,10.0
+2026-08-17,Lava Flow,Alcohol,152,2280.00,15.0
+2026-08-17,House Wine,Alcohol,170,2210.00,13.0
+2026-08-17,Local Lager,Alcohol,243,2187.00,9.0
+2026-08-17,Kona Coffee,Beverage,367,1835.00,5.0
+2026-08-17,POG Juice,Beverage,283,1698.00,6.0
+2026-08-17,Haupia Pie,Food,169,1521.00,9.0
+2026-08-17,Iced Tea,Beverage,322,1440.00,4.5
+2026-08-17,Soda,Beverage,331,1320.00,4.0
+2026-08-17,Kale Caesar,Food,64,1024.00,16.0
+2026-08-17,Kids Mac & Cheese,Food,72,792.00,11.0
+2026-08-24,Loco Moco,Food,287,6314.00,22.0
+2026-08-24,Ahi Poke Bowl,Food,213,5512.00,26.0
+2026-08-24,Mai Tai,Alcohol,342,5456.00,16.0
+2026-08-24,Garlic Shrimp,Food,195,5018.00,26.0
+2026-08-24,Lanai Burger,Food,215,4300.00,20.0
+2026-08-24,Huli Huli Chicken,Food,183,4209.00,23.0
+2026-08-24,Kalua Pork Plate,Food,200,4200.00,21.0
+2026-08-24,Coconut Shrimp,Food,268,4005.00,15.0
+2026-08-24,Mahi Sandwich,Food,147,3087.00,21.0
+2026-08-24,Fish Tacos,Food,159,3021.00,19.0
+2026-08-24,Spam Musubi,Food,334,3006.00,9.0
+2026-08-24,Malasadas,Food,279,2790.00,10.0
+2026-08-24,House Wine,Alcohol,176,2288.00,13.0
+2026-08-24,Local Lager,Alcohol,248,2232.00,9.0
+2026-08-24,Lava Flow,Alcohol,142,2130.00,15.0
+2026-08-24,Kona Coffee,Beverage,346,1730.00,5.0
+2026-08-24,POG Juice,Beverage,280,1680.00,6.0
+2026-08-24,Iced Tea,Beverage,371,1669.50,4.5
+2026-08-24,Haupia Pie,Food,176,1575.00,9.0
+2026-08-24,Soda,Beverage,309,1228.00,4.0
+2026-08-24,Kale Caesar,Food,63,1008.00,16.0
+2026-08-24,Kids Mac & Cheese,Food,75,825.00,11.0
+2026-08-31,Loco Moco,Food,253,5566.00,22.0
+2026-08-31,Ahi Poke Bowl,Food,180,4654.00,26.0
+2026-08-31,Mai Tai,Alcohol,265,4240.00,16.0
+2026-08-31,Garlic Shrimp,Food,154,4004.00,26.0
+2026-08-31,Lanai Burger,Food,189,3760.00,20.0
+2026-08-31,Huli Huli Chicken,Food,161,3703.00,23.0
+2026-08-31,Coconut Shrimp,Food,234,3495.00,15.0
+2026-08-31,Kalua Pork Plate,Food,164,3444.00,21.0
+2026-08-31,Fish Tacos,Food,139,2622.00,19.0
+2026-08-31,Mahi Sandwich,Food,121,2541.00,21.0
+2026-08-31,Spam Musubi,Food,277,2466.00,9.0
+2026-08-31,Malasadas,Food,228,2280.00,10.0
+2026-08-31,House Wine,Alcohol,153,1976.00,13.0
+2026-08-31,Lava Flow,Alcohol,129,1935.00,15.0
+2026-08-31,Local Lager,Alcohol,213,1917.00,9.0
+2026-08-31,Kona Coffee,Beverage,306,1530.00,5.0
+2026-08-31,POG Juice,Beverage,245,1464.00,6.0
+2026-08-31,Iced Tea,Beverage,303,1363.50,4.5
+2026-08-31,Haupia Pie,Food,148,1332.00,9.0
+2026-08-31,Soda,Beverage,285,1140.00,4.0
+2026-08-31,Kale Caesar,Food,55,880.00,16.0
+2026-08-31,Kids Mac & Cheese,Food,62,671.00,11.0
+2026-09-07,Loco Moco,Food,253,5566.00,22.0
+2026-09-07,Ahi Poke Bowl,Food,197,5122.00,26.0
+2026-09-07,Mai Tai,Alcohol,266,4256.00,16.0
+2026-09-07,Garlic Shrimp,Food,162,4212.00,26.0
+2026-09-07,Lanai Burger,Food,193,3840.00,20.0
+2026-09-07,Kalua Pork Plate,Food,179,3738.00,21.0
+2026-09-07,Huli Huli Chicken,Food,153,3496.00,23.0
+2026-09-07,Coconut Shrimp,Food,222,3330.00,15.0
+2026-09-07,Fish Tacos,Food,148,2793.00,19.0
+2026-09-07,Mahi Sandwich,Food,125,2583.00,21.0
+2026-09-07,Spam Musubi,Food,268,2403.00,9.0
+2026-09-07,Malasadas,Food,217,2170.00,10.0
+2026-09-07,Local Lager,Alcohol,212,1899.00,9.0
+2026-09-07,Lava Flow,Alcohol,125,1860.00,15.0
+2026-09-07,House Wine,Alcohol,141,1820.00,13.0
+2026-09-07,Kona Coffee,Beverage,311,1550.00,5.0
+2026-09-07,POG Juice,Beverage,235,1410.00,6.0
+2026-09-07,Haupia Pie,Food,153,1377.00,9.0
+2026-09-07,Iced Tea,Beverage,287,1287.00,4.5
+2026-09-07,Soda,Beverage,266,1060.00,4.0
+2026-09-07,Kale Caesar,Food,55,864.00,16.0
+2026-09-07,Kids Mac & Cheese,Food,63,693.00,11.0
+2026-09-14,Loco Moco,Food,257,5654.00,22.0
+2026-09-14,Ahi Poke Bowl,Food,208,5408.00,26.0
+2026-09-14,Mai Tai,Alcohol,277,4432.00,16.0
+2026-09-14,Garlic Shrimp,Food,164,4238.00,26.0
+2026-09-14,Lanai Burger,Food,202,4040.00,20.0
+2026-09-14,Huli Huli Chicken,Food,165,3749.00,23.0
+2026-09-14,Kalua Pork Plate,Food,174,3654.00,21.0
+2026-09-14,Coconut Shrimp,Food,222,3330.00,15.0
+2026-09-14,Fish Tacos,Food,141,2679.00,19.0
+2026-09-14,Mahi Sandwich,Food,127,2667.00,21.0
+2026-09-14,Spam Musubi,Food,267,2394.00,9.0
+2026-09-14,Malasadas,Food,229,2290.00,10.0
+2026-09-14,Local Lager,Alcohol,228,2043.00,9.0
+2026-09-14,Lava Flow,Alcohol,128,1920.00,15.0
+2026-09-14,House Wine,Alcohol,145,1885.00,13.0
+2026-09-14,Kona Coffee,Beverage,322,1605.00,5.0
+2026-09-14,POG Juice,Beverage,258,1548.00,6.0
+2026-09-14,Iced Tea,Beverage,329,1480.50,4.5
+2026-09-14,Haupia Pie,Food,153,1377.00,9.0
+2026-09-14,Soda,Beverage,294,1176.00,4.0
+2026-09-14,Kale Caesar,Food,57,912.00,16.0
+2026-09-14,Kids Mac & Cheese,Food,61,660.00,11.0
+2026-09-21,Loco Moco,Food,249,5456.00,22.0
+2026-09-21,Ahi Poke Bowl,Food,183,4706.00,26.0
+2026-09-21,Mai Tai,Alcohol,257,4096.00,16.0
+2026-09-21,Garlic Shrimp,Food,157,4082.00,26.0
+2026-09-21,Lanai Burger,Food,195,3900.00,20.0
+2026-09-21,Kalua Pork Plate,Food,180,3780.00,21.0
+2026-09-21,Huli Huli Chicken,Food,151,3450.00,23.0
+2026-09-21,Coconut Shrimp,Food,230,3420.00,15.0
+2026-09-21,Fish Tacos,Food,149,2812.00,19.0
+2026-09-21,Mahi Sandwich,Food,127,2646.00,21.0
+2026-09-21,Spam Musubi,Food,277,2475.00,9.0
+2026-09-21,Malasadas,Food,224,2210.00,10.0
+2026-09-21,Lava Flow,Alcohol,126,1890.00,15.0
+2026-09-21,Local Lager,Alcohol,211,1890.00,9.0
+2026-09-21,House Wine,Alcohol,138,1794.00,13.0
+2026-09-21,Kona Coffee,Beverage,315,1575.00,5.0
+2026-09-21,POG Juice,Beverage,246,1476.00,6.0
+2026-09-21,Haupia Pie,Food,155,1395.00,9.0
+2026-09-21,Iced Tea,Beverage,307,1381.50,4.5
+2026-09-21,Soda,Beverage,269,1076.00,4.0
+2026-09-21,Kale Caesar,Food,54,864.00,16.0
+2026-09-21,Kids Mac & Cheese,Food,63,693.00,11.0
+2026-09-28,Loco Moco,Food,245,5390.00,22.0
+2026-09-28,Ahi Poke Bowl,Food,185,4810.00,26.0
+2026-09-28,Mai Tai,Alcohol,280,4480.00,16.0
+2026-09-28,Garlic Shrimp,Food,160,4160.00,26.0
+2026-09-28,Huli Huli Chicken,Food,169,3864.00,23.0
+2026-09-28,Kalua Pork Plate,Food,181,3801.00,21.0
+2026-09-28,Lanai Burger,Food,188,3760.00,20.0
+2026-09-28,Coconut Shrimp,Food,231,3450.00,15.0
+2026-09-28,Fish Tacos,Food,150,2850.00,19.0
+2026-09-28,Mahi Sandwich,Food,135,2814.00,21.0
+2026-09-28,Spam Musubi,Food,278,2502.00,9.0
+2026-09-28,Malasadas,Food,250,2500.00,10.0
+2026-09-28,House Wine,Alcohol,156,2028.00,13.0
+2026-09-28,Lava Flow,Alcohol,135,2025.00,15.0
+2026-09-28,Local Lager,Alcohol,216,1944.00,9.0
+2026-09-28,Kona Coffee,Beverage,302,1510.00,5.0
+2026-09-28,Iced Tea,Beverage,323,1453.50,4.5
+2026-09-28,POG Juice,Beverage,241,1440.00,6.0
+2026-09-28,Haupia Pie,Food,158,1413.00,9.0
+2026-09-28,Soda,Beverage,291,1160.00,4.0
+2026-09-28,Kale Caesar,Food,57,912.00,16.0
+2026-09-28,Kids Mac & Cheese,Food,63,682.00,11.0
+2026-10-05,Loco Moco,Food,259,5654.00,22.0
+2026-10-05,Ahi Poke Bowl,Food,192,4940.00,26.0
+2026-10-05,Garlic Shrimp,Food,171,4420.00,26.0
+2026-10-05,Mai Tai,Alcohol,275,4384.00,16.0
+2026-10-05,Huli Huli Chicken,Food,175,4002.00,23.0
+2026-10-05,Lanai Burger,Food,196,3920.00,20.0
+2026-10-05,Kalua Pork Plate,Food,175,3654.00,21.0
+2026-10-05,Coconut Shrimp,Food,234,3510.00,15.0
+2026-10-05,Mahi Sandwich,Food,140,2940.00,21.0
+2026-10-05,Fish Tacos,Food,147,2793.00,19.0
+2026-10-05,Spam Musubi,Food,289,2592.00,9.0
+2026-10-05,Malasadas,Food,223,2230.00,10.0
+2026-10-05,Lava Flow,Alcohol,139,2070.00,15.0
+2026-10-05,Local Lager,Alcohol,224,2007.00,9.0
+2026-10-05,House Wine,Alcohol,150,1950.00,13.0
+2026-10-05,POG Juice,Beverage,256,1530.00,6.0
+2026-10-05,Kona Coffee,Beverage,295,1465.00,5.0
+2026-10-05,Iced Tea,Beverage,320,1435.50,4.5
+2026-10-05,Haupia Pie,Food,155,1395.00,9.0
+2026-10-05,Soda,Beverage,315,1260.00,4.0
+2026-10-05,Kale Caesar,Food,56,896.00,16.0
+2026-10-05,Kids Mac & Cheese,Food,68,748.00,11.0

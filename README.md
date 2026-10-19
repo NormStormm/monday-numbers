@@ -4,7 +4,7 @@
 
 📊 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/norman.kau/viz/MondayNumbersProject/MondayNumbers)**
 
-Built from years on the operations side of restaurants, where Monday morning means exporting reports, rebuilding the same spreadsheet, and still not being able to say *why* labor cost went up.
+Built around a problem common in restaurants, where Monday morning means a manager exporting reports, rebuilding the same spreadsheet, and still not being able to say *why* labor cost went up.
 
 ![Monday Numbers dashboard: cost trends, menu sales, daily labor % heatmap, and Claude's weekly brief](docs/screenshots/dashboard.png)
 
